@@ -19,3 +19,6 @@ A free variable is a normal variable and can be pure or impure depending on the 
 
 - Work email: pallav.gupta@knoldus.com
 - LinkedIn: https://www.linkedin.com/in/pallav-gupta-704003194/
+- My tech articles: https://blog.knoldus.com/author/pallavatknoldus/
+
+![Logo](https://mustaphamichael.github.io/images/scala-img.png)
